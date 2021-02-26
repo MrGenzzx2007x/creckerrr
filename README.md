@@ -2,17 +2,17 @@
 
 #Mr Genzz
 
-$ pkg instal git curl python
+$ pkg install git curl python
 
-$ pkg instal ruby
+$ pkg install ruby
 
-$ gem instal lolcat
+$ gem install lolcat
 
 $ termux-setup-storage
 
-$ pip install permintaan mekanik bs4 futures
+$ pip install requests mechanize bs4 futures
 
-$ pip instal colorama
+$ pip install colorama
 
 $https://github.com/MrGenzzx2007x/creckerrr
 
